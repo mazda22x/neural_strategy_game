@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeb7b023340504244981003fce0539ca, type: 3}
+  m_Name: CastleSO
+  m_EditorClassIdentifier: 
+  Description: 
+  Tile: {fileID: 11400000, guid: e8441537906ed59448db3f4d2d089ca5, type: 2}
+  _buildingSprite: {fileID: 1613021488, guid: 61c8ecab0aee6fa4d97387eaa4aecc99, type: 3}
+  _buildingType: 1
+  _buildingData:
+    Health: 2000
+    Income:
+      Wood: 0
+      Stone: 0
+      Copper: 0
+      Food: -2
+    Cost:
+      Wood: 50
+      Stone: 100
+      Copper: 50
+      Food: 50
+    Validation:
+      GroundTile: 0
+      TileTypes: 

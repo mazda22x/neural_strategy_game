@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b172140f5f8a242bc747ced0036dd0, type: 3}
+  m_Name: DirtStoneSO
+  m_EditorClassIdentifier: 
+  Description: 
+  Tile: {fileID: 0}
+  _data:
+    TileCategory: 2
+  _resData:
+    TileType: 2
+    Tiles:
+    - {fileID: 11400000, guid: c32c33134c279bc49a62486da4e79ab5, type: 2}
+    - {fileID: 11400000, guid: c1695c85b45dd8b4eacc4348758cea3a, type: 2}
+    - {fileID: 11400000, guid: ab639e71cbf63694f9d824e4611f36ac, type: 2}

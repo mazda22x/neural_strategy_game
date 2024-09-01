@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eeb7b023340504244981003fce0539ca, type: 3}
+  m_Name: LumberSO
+  m_EditorClassIdentifier: 
+  Description: 
+  Tile: {fileID: 11400000, guid: 60ac144e7c4d08246b5063fb94315153, type: 2}
+  _buildingSprite: {fileID: 1422766651, guid: 61c8ecab0aee6fa4d97387eaa4aecc99, type: 3}
+  _buildingType: 2
+  _buildingData:
+    Health: 100
+    Income:
+      Wood: 5
+      Stone: 0
+      Copper: 0
+      Food: -1
+    Cost:
+      Wood: 35
+      Stone: 5
+      Copper: 0
+      Food: 10
+    Validation:
+      GroundTile: 0
+      TileTypes: 01000000

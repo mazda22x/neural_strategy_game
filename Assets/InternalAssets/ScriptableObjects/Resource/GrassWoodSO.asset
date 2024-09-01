@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b172140f5f8a242bc747ced0036dd0, type: 3}
+  m_Name: GrassWoodSO
+  m_EditorClassIdentifier: 
+  Description: 
+  Tile: {fileID: 0}
+  _data:
+    TileCategory: 1
+  _resData:
+    TileType: 1
+    Tiles:
+    - {fileID: 11400000, guid: 6113952d4c87eb545814af323379a547, type: 2}
+    - {fileID: 11400000, guid: e6dff8cdab0632146b1227cec3c2aef8, type: 2}
+    - {fileID: 11400000, guid: 90c813b228bd80c4fa9f867701b9358d, type: 2}
+    - {fileID: 11400000, guid: cda0b542d94502345abad9ea0fff5dc1, type: 2}

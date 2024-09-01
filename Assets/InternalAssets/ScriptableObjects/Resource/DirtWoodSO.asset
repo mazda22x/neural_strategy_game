@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58b172140f5f8a242bc747ced0036dd0, type: 3}
+  m_Name: DirtWoodSO
+  m_EditorClassIdentifier: 
+  Description: 
+  Tile: {fileID: 0}
+  _data:
+    TileCategory: 2
+  _resData:
+    TileType: 1
+    Tiles:
+    - {fileID: 11400000, guid: f57a97f64cf7dc0488a787764a283d26, type: 2}
+    - {fileID: 11400000, guid: 91dd59c4b0b45f1408cb14a3b1619f6f, type: 2}
+    - {fileID: 11400000, guid: 9e4e1b6a3675fb04593011a7df35ed9a, type: 2}
+    - {fileID: 11400000, guid: 43d30a9f6a8b77d4e9eb040fd819155a, type: 2}
